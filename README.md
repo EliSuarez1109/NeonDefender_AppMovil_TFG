@@ -5,7 +5,7 @@
 ![Compose](https://img.shields.io/badge/Jetpack_Compose-Material3-green)
 ![AWS](https://img.shields.io/badge/Backend-AWS_Lambda-ff9900)
 
-**Neon Defender Dashboard** es una aplicación móvil nativa desarrollada para visualizar las estadísticas y el historial del videojuego. La app destaca por su interfaz futurista con estética neón y una integración fluida con servicios en la nube.
+**Neon Defender** es una aplicación móvil nativa desarrollada para visualizar las estadísticas y el historial del videojuego. La app destaca por su interfaz futurista con estética neón y una integración fluida con servicios en la nube.
 
 ---
 
